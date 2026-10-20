@@ -1,0 +1,14 @@
+{
+  "name": "kisanbazar-workspace",
+  "version": "1.0.0",
+  "description": "KisanBazar Root Workspace - Direct Farm to Consumer Marketplace",
+  "scripts": {
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": ["agritech", "mern", "kisanbazar"],
+  "author": "Team Terminator",
+  "license": "ISC"
+}
